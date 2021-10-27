@@ -1,3 +1,5 @@
+package verenapackage;
+
 import javax.swing.*;
 import java.awt.*;
 
